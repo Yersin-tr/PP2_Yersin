@@ -1,1 +1,4 @@
-print("hello world ")
+def my_function():
+  print("Привет из функции")
+
+my_function()
